@@ -1,70 +1,491 @@
 <!DOCTYPE html>
-<html lang="en">
+<html class="light" lang="en">
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Group Website</title>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Micke-Strell Group | Precision Spatial Biology Lab</title>
     <meta
       name="description"
-      content="Starter homepage for a group website hosted on GitHub Pages."
+      content="Micke-Strell Group studies cellular interactions in cancer through spatial biology, tissue pathology, and translational research."
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600;700&amp;family=Instrument+Sans:wght@400;500;600&amp;display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap"
+      rel="stylesheet"
     />
     <link rel="stylesheet" href="assets/css/styles.css" />
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              "on-primary-fixed": "#1c1b1b",
+              "error-container": "#ffdad6",
+              "on-tertiary-fixed": "#1a1c1c",
+              "accent-warm-grey": "#CFCABE",
+              surface: "#FFFFFF",
+              "on-secondary-container": "#626262",
+              "surface-container-low": "#f3f3f3",
+              "tertiary-fixed": "#e3e2e2",
+              "primary-container": "#1c1b1b",
+              "tertiary-fixed-dim": "#c7c6c6",
+              "inverse-on-surface": "#f1f1f1",
+              "inverse-surface": "#2f3131",
+              "on-tertiary-fixed-variant": "#464747",
+              "on-surface": "#1a1c1c",
+              "tertiary-container": "#1a1c1c",
+              primary: "#000000",
+              error: "#ba1a1a",
+              "on-background": "#1a1c1c",
+              "on-secondary-fixed-variant": "#464747",
+              background: "#f9f9f9",
+              "on-secondary-fixed": "#1b1c1c",
+              "surface-tint": "#5f5e5e",
+              tertiary: "#000000",
+              "surface-bright": "#f9f9f9",
+              "surface-variant": "#e2e2e2",
+              "secondary-container": "#e1dfdf",
+              "inverse-primary": "#c8c6c5",
+              "on-primary": "#ffffff",
+              "on-tertiary-container": "#838484",
+              "primary-fixed-dim": "#c8c6c5",
+              "on-error-container": "#93000a",
+              outline: "#747878",
+              "on-primary-container": "#858383",
+              "on-surface-variant": "#444748",
+              "on-secondary": "#ffffff",
+              "on-primary-fixed-variant": "#474646",
+              "accent-burnt-orange": "#D8613C",
+              "secondary-fixed-dim": "#c7c6c6",
+              "primary-fixed": "#e5e2e1",
+              "accent-sage": "#B1C5A4",
+              "on-tertiary": "#ffffff",
+              "surface-container": "#eeeeee",
+              "accent-tan": "#C2A990",
+              "surface-container-lowest": "#ffffff",
+              "accent-cool-grey": "#B5BDBC",
+              "secondary-fixed": "#e4e2e2",
+              "surface-container-highest": "#e2e2e2",
+              "surface-container-high": "#e8e8e8",
+              "outline-variant": "#c4c7c7",
+              "on-error": "#ffffff",
+              "surface-dim": "#dadada",
+              secondary: "#5e5e5e",
+            },
+            borderRadius: {
+              DEFAULT: "0.125rem",
+              lg: "0.25rem",
+              xl: "0.5rem",
+              full: "0.75rem",
+            },
+            spacing: {
+              "max-width-content": "620px",
+              "stack-lg": "2.5rem",
+              "section-xl": "10.5rem",
+              "max-width-site": "1280px",
+              "section-md": "4rem",
+              "section-lg": "6.5rem",
+              gutter: "1.2rem",
+              "stack-xs": "1rem",
+              "stack-md": "1.5rem",
+            },
+            fontFamily: {
+              "headline-xxl": ["Jost"],
+              "headline-xl": ["Jost"],
+              "headline-lg": ["Jost"],
+              "headline-md": ["Jost"],
+              "label-md": ["Jost"],
+              "body-lg": ["Instrument Sans"],
+              "body-md": ["Instrument Sans"],
+              caption: ["Instrument Sans"],
+            },
+            fontSize: {
+              "headline-xxl": [
+                "3.27rem",
+                {
+                  lineHeight: "1.15",
+                  letterSpacing: "-0.02em",
+                  fontWeight: "600",
+                },
+              ],
+              "headline-xl": ["2.5rem", { lineHeight: "1.2", fontWeight: "600" }],
+              "headline-lg": ["1.85rem", { lineHeight: "1.2", fontWeight: "500" }],
+              "headline-md": ["1.25rem", { lineHeight: "1.3", fontWeight: "500" }],
+              "label-md": [
+                "0.9rem",
+                {
+                  lineHeight: "1.1",
+                  letterSpacing: "0.05em",
+                  fontWeight: "500",
+                },
+              ],
+              "body-lg": ["1.05rem", { lineHeight: "1.55", fontWeight: "400" }],
+              "body-md": ["0.95rem", { lineHeight: "1.55", fontWeight: "400" }],
+              caption: ["0.8rem", { lineHeight: "1.4", fontWeight: "400" }],
+            },
+          },
+        },
+      };
+    </script>
+    <style>
+      .material-symbols-outlined {
+        font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 24;
+      }
+      .sharp-shadow {
+        box-shadow: 6px 6px 0px rgba(0, 0, 0, 0.2);
+      }
+      .sharp-shadow-hover:hover {
+        box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+        transform: translate(-2px, -2px);
+      }
+      .border-technical {
+        border: 1px solid #111111;
+      }
+      .home-hero-overlay {
+        background: linear-gradient(
+          90deg,
+          rgba(249, 249, 249, 0.95) 0%,
+          rgba(249, 249, 249, 0.76) 28%,
+          rgba(249, 249, 249, 0.18) 63%,
+          rgba(249, 249, 249, 0.04) 100%
+        );
+      }
+    </style>
   </head>
-  <body>
-    <header class="hero">
-      <nav class="nav">
-        <div class="brand">Your Group Name</div>
-        <div class="nav-links">
-          <a href="#about">About</a>
-          <a href="#team">Team</a>
-          <a href="#projects">Projects</a>
-          <a href="#contact">Contact</a>
-        </div>
-      </nav>
-
-      <section class="hero-content">
-        <p class="eyebrow">GitHub Pages Starter</p>
-        <h1>Build your group website here.</h1>
-        <p class="hero-text">
-          This starter keeps things simple so your team can focus on content,
-          layout, and branding later.
-        </p>
-        <div class="hero-actions">
-          <a class="button primary" href="#about">Start Designing</a>
-          <a class="button secondary" href="README.md">Setup Guide</a>
-        </div>
-      </section>
+  <body
+    class="bg-background text-on-background font-body-md selection:bg-accent-sage selection:text-primary"
+    data-page="research"
+  >
+    <header class="unified-header">
+      <div class="unified-header__inner">
+        <a class="unified-brand" href="index.html" aria-label="Micke-Strell Group home">
+          <span class="unified-brand__icon material-symbols-outlined" aria-hidden="true">biotech</span>
+          <span class="unified-brand__text">Micke-Strell Group</span>
+        </a>
+        <button
+          class="unified-menu-toggle material-symbols-outlined"
+          type="button"
+          aria-label="Toggle menu"
+          aria-expanded="false"
+          aria-controls="site-nav"
+          data-menu-toggle
+        >
+          menu
+        </button>
+        <nav class="unified-nav" id="site-nav" data-nav>
+          <a class="unified-nav__link" href="index.html#research" data-nav-link="research">Research</a>
+          <a class="unified-nav__link" href="people/index.html" data-nav-link="people">People</a>
+          <a class="unified-nav__link" href="index.html#publications" data-nav-link="publications">Publications</a>
+          <a class="unified-nav__link" href="about/index.html" data-nav-link="about">About Us</a>
+          <a class="unified-nav__cta" href="about/index.html#contact">Contact Lab</a>
+        </nav>
+      </div>
     </header>
 
-    <main>
-      <section id="about" class="section">
-        <h2>About</h2>
-        <p>
-          Replace this section with a short description of your group, mission,
-          or community.
-        </p>
+    <main class="page-main">
+      <section class="hero-home">
+        <div class="absolute inset-0 z-0">
+          <img
+            alt="Cellular microscopy"
+            class="w-full h-full object-cover grayscale-[12%] contrast-[1.06]"
+            src="assets/images/home-hero-upa1466.png"
+          />
+          <div class="absolute inset-0 home-hero-overlay"></div>
+        </div>
+        <div class="page-shell hero-home__inner">
+          <div class="hero-home__copy">
+            <span class="type-kicker">
+              Precision Spatial Biology
+            </span>
+            <h1 class="type-display">
+              Understanding cellular interactions driving cancer.
+            </h1>
+            <p class="type-body-lg mb-stack-lg max-w-[540px]">
+              We utilize advanced spatial proteomics and transcriptomics to map the
+              architectural complexity of human tumors, identifying new therapeutic
+              vulnerabilities.
+            </p>
+            <div class="hero-home__actions">
+              <a
+                class="button-pill button-pill--primary"
+                href="#research"
+                >Explore Research</a
+              >
+              <a
+                class="button-pill button-pill--secondary"
+                href="#publications"
+                >Latest Findings</a
+              >
+            </div>
+          </div>
+        </div>
       </section>
 
-      <section id="team" class="section">
-        <h2>Team</h2>
-        <p>Add member bios, roles, or links here when you are ready.</p>
+      <section class="page-section page-section--compact bg-surface" id="research">
+        <div class="page-shell">
+          <div class="section-intro section-intro--stack">
+            <div>
+              <p class="section-intro__eyebrow">Research</p>
+              <h2 class="section-intro__title">Our Research</h2>
+            </div>
+            <p class="section-intro__summary">
+              Decoding the tumor landscape through tissue architecture, cell-to-cell
+              interactions, and clinically anchored spatial biology.
+            </p>
+          </div>
+          <div class="max-w-max-width-content">
+            <p class="type-body-lg mb-stack-md">
+              Cancer is not just a collection of malignant cells, but a complex organ
+              composed of various cell types interacting in a structured environment.
+              Our lab aims to understand how this organization influences disease
+              progression and response to therapy.
+            </p>
+          </div>
+        </div>
       </section>
 
-      <section id="projects" class="section">
-        <h2>Projects</h2>
-        <p>Use this area for featured work, updates, or announcements.</p>
+      <section class="page-section page-section--compact bg-surface">
+        <div class="page-shell">
+          <div class="feature-grid-home">
+            <div class="page-card p-stack-lg flex flex-col gap-4 bg-background">
+              <div class="w-16 h-16 bg-accent-sage/20 rounded-full flex items-center justify-center mb-2">
+                <span class="material-symbols-outlined text-primary text-4xl">microbiology</span>
+              </div>
+              <h4 class="type-title">Tumor Microenvironment</h4>
+              <p class="type-body">
+                Investigating the spatial relationships between immune cells, stromal
+                components, and malignant populations to uncover how tumors evade the
+                immune system.
+              </p>
+              <a
+                class="mt-auto link-arrow"
+                href="research/lung-cancer/index.html"
+              >
+                Learn more <span class="material-symbols-outlined text-sm">arrow_forward</span>
+              </a>
+            </div>
+
+            <div class="page-card p-stack-lg flex flex-col gap-4 bg-background">
+              <div class="w-16 h-16 bg-accent-tan/20 rounded-full flex items-center justify-center mb-2">
+                <span class="material-symbols-outlined text-primary text-4xl">inventory_2</span>
+              </div>
+              <h4 class="type-title">Patient Tissue</h4>
+              <p class="type-body">
+                Leveraging high-plex imaging on clinical cohorts to translate basic
+                biological discoveries into diagnostic tools and personalized treatment
+                strategies.
+              </p>
+              <a
+                class="mt-auto link-arrow"
+                href="research/breast-cancer/index.html"
+              >
+                Methodology <span class="material-symbols-outlined text-sm">arrow_forward</span>
+              </a>
+            </div>
+          </div>
+        </div>
       </section>
 
-      <section id="contact" class="section">
-        <h2>Contact</h2>
-        <p>Add email, social links, or a form later.</p>
+      <section class="page-section page-section--compact bg-surface-container-low" id="publications">
+        <div class="page-shell">
+          <div class="section-intro">
+            <div>
+              <p class="section-intro__eyebrow">Selected work</p>
+              <h2 class="section-intro__title">Publications</h2>
+            </div>
+            <a
+              class="font-label-md text-primary hover:underline decoration-accent-burnt-orange decoration-2 underline-offset-4 flex items-center gap-1"
+              href="people/index.html"
+            >
+              View All Publications <span class="material-symbols-outlined">open_in_new</span>
+            </a>
+          </div>
+          <div class="flex flex-col">
+            <div class="group py-stack-md border-b border-outline-variant flex flex-col md:flex-row gap-4 md:items-start transition-all hover:bg-white/50 px-4 -mx-4">
+              <span class="font-label-md text-accent-burnt-orange shrink-0 pt-1">2023</span>
+              <div class="flex-grow">
+                <h4 class="type-title mb-2 group-hover:text-accent-burnt-orange transition-colors">
+                  Spatial immunophenotyping of the tumour microenvironment in non-small
+                  cell lung cancer.
+                </h4>
+                <p class="font-caption text-caption text-secondary">
+                  European Journal of Cancer | Backman, Strell, Lindberg, Mattsson,
+                  Elfving et al.
+                </p>
+              </div>
+              <span class="material-symbols-outlined text-outline group-hover:text-primary transition-colors">
+                description
+              </span>
+            </div>
+
+            <div class="group py-stack-md border-b border-outline-variant flex flex-col md:flex-row gap-4 md:items-start transition-all hover:bg-white/50 px-4 -mx-4">
+              <span class="font-label-md text-accent-burnt-orange shrink-0 pt-1">2023</span>
+              <div class="flex-grow">
+                <h4 class="type-title mb-2 group-hover:text-accent-burnt-orange transition-colors">
+                  Phenotypic characterization of spatial immune infiltration niches in
+                  non-small cell lung cancer.
+                </h4>
+                <p class="font-caption text-caption text-secondary">
+                  Oncoimmunology | Gerdtsson, Knulst, Botling, Mezheyeuski, Micke et al.
+                </p>
+              </div>
+              <span class="material-symbols-outlined text-outline group-hover:text-primary transition-colors">
+                description
+              </span>
+            </div>
+
+            <div class="group py-stack-md border-b border-outline-variant flex flex-col md:flex-row gap-4 md:items-start transition-all hover:bg-white/50 px-4 -mx-4">
+              <span class="font-label-md text-accent-burnt-orange shrink-0 pt-1">2021</span>
+              <div class="flex-grow">
+                <h4 class="type-title mb-2 group-hover:text-accent-burnt-orange transition-colors">
+                  High PDGFRβ Expression Predicts Resistance to Radiotherapy in DCIS
+                  within the SweDCIS Randomized Trial.
+                </h4>
+                <p class="font-caption text-caption text-secondary">
+                  Clinical Cancer Research | Strell, Folkvaljon, Holmberg, Schiza,
+                  Thurfjell et al.
+                </p>
+              </div>
+              <span class="material-symbols-outlined text-outline group-hover:text-primary transition-colors">
+                description
+              </span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="page-section bg-surface">
+        <div class="page-shell">
+          <div class="section-intro">
+            <div>
+              <p class="section-intro__eyebrow">Updates</p>
+              <h2 class="section-intro__title">Group News</h2>
+            </div>
+            <p class="section-intro__summary">
+              Funding, collaborations, and recent developments across the group’s
+              spatial biology and cancer research programs.
+            </p>
+          </div>
+          <div class="news-grid">
+            <article class="page-card news-card group">
+              <div class="page-card__media news-card__media">
+                <img
+                  alt="Laboratory building"
+                  class="w-full h-full object-cover"
+                  src="assets/images/rudbeck-lab.png"
+                />
+                <div class="absolute top-4 left-4 bg-primary text-on-primary px-3 py-1 font-label-md text-[0.7rem] uppercase tracking-widest">
+                  New Funding
+                </div>
+              </div>
+              <div class="page-card__body">
+                <p class="type-meta mb-2">October 12, 2024</p>
+                <h5 class="type-title mb-2">
+                  Lab receives new support for spatial cancer studies.
+                </h5>
+                <p class="type-body">
+                  Continued investment strengthens our work on mapping tumor tissue
+                  architecture and clinically relevant biomarker discovery.
+                </p>
+              </div>
+            </article>
+
+            <article class="page-card news-card group">
+              <div class="page-card__media news-card__media">
+                <img
+                  alt="Spatial biology figure"
+                  class="w-full h-full object-cover"
+                  src="assets/images/tme-demo.png"
+                />
+                <div class="absolute top-4 left-4 bg-primary text-on-primary px-3 py-1 font-label-md text-[0.7rem] uppercase tracking-widest">
+                  Conference
+                </div>
+              </div>
+              <div class="page-card__body">
+                <p class="type-meta mb-2">September 28, 2024</p>
+                <h5 class="type-title mb-2">
+                  Group work highlights spatial interactions shaping tumor behavior.
+                </h5>
+                <p class="type-body">
+                  Ongoing presentations and collaborations continue to connect tissue
+                  biology with translational oncology questions.
+                </p>
+              </div>
+            </article>
+
+            <article class="page-card news-card group">
+              <div class="page-card__media news-card__media">
+                <img
+                  alt="Multidimensional tissue analysis"
+                  class="w-full h-full object-cover"
+                  src="assets/images/multidimensional-data.png"
+                />
+                <div class="absolute top-4 left-4 bg-primary text-on-primary px-3 py-1 font-label-md text-[0.7rem] uppercase tracking-widest">
+                  Recognition
+                </div>
+              </div>
+              <div class="page-card__body">
+                <p class="type-meta mb-2">August 15, 2024</p>
+                <h5 class="type-title mb-2">
+                  Tissue-scale data integration continues to expand the lab’s clinical impact.
+                </h5>
+                <p class="type-body">
+                  Combined pathology, imaging, and sequencing approaches remain central
+                  to the group’s strategy for biomarker and target discovery.
+                </p>
+              </div>
+            </article>
+          </div>
+        </div>
       </section>
     </main>
 
-    <footer class="footer">
-      <p>© <span id="year"></span> Your Group Name</p>
+    <footer class="unified-footer">
+      <div class="unified-footer__inner">
+        <div class="unified-footer__top">
+          <div class="unified-footer__brand">
+            <a class="unified-footer__brand-row" href="index.html" aria-label="Micke-Strell Group home">
+              <span class="unified-footer__brand-icon material-symbols-outlined" aria-hidden="true">biotech</span>
+              <span class="unified-footer__brand-text">Micke-Strell Group</span>
+            </a>
+            <p class="unified-footer__copy">
+              Precision spatial biology lab advancing cancer research through tissue architecture,
+              multiplex imaging, and translational pathology.
+            </p>
+          </div>
+          <div>
+            <h2 class="unified-footer__heading">Navigation</h2>
+            <ul class="unified-footer__list">
+              <li><a href="#research">Research</a></li>
+              <li><a href="people/index.html">People</a></li>
+              <li><a href="#publications">Publications</a></li>
+              <li><a href="about/index.html">About Us</a></li>
+            </ul>
+          </div>
+          <div>
+            <h2 class="unified-footer__heading">Contact</h2>
+            <ul class="unified-footer__list">
+              <li><a href="mailto:patrick.micke@igp.uu.se">patrick.micke@igp.uu.se</a></li>
+              <li><a href="mailto:carina.strell@igp.uu.se">carina.strell@igp.uu.se</a></li>
+              <li>Dag Hammarskjölds väg 20, 751 85 Uppsala</li>
+              <li><a href="about/index.html#contact">Contact Lab</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="unified-footer__bottom">
+          <p class="unified-footer__copy">© 2026 Micke-Strell Group. Uppsala University.</p>
+          <div class="unified-footer__meta">
+            <span>Department of Immunology, Genetics and Pathology</span>
+            <span>SciLifeLab-affiliated research environment</span>
+          </div>
+        </div>
+      </div>
     </footer>
-
     <script src="assets/js/main.js"></script>
   </body>
 </html>
