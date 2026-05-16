@@ -1216,6 +1216,8 @@ body.menu-open {
   font-family: "Instrument Sans", Arial, sans-serif;
   font-size: 1rem;
   line-height: 1.65;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .type-kicker {
@@ -1254,6 +1256,8 @@ body.menu-open {
   font-family: "Instrument Sans", Arial, sans-serif;
   font-size: 1.06rem;
   line-height: 1.65;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .type-body {
@@ -1261,6 +1265,8 @@ body.menu-open {
   font-family: "Instrument Sans", Arial, sans-serif;
   font-size: 0.97rem;
   line-height: 1.62;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .type-meta {
