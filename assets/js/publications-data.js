@@ -4,7 +4,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2026,
     "journal": "Lung Cancer",
     "authors": "Nordling, Love; Backman, Max; Mezheyeuski, Artur; Lindblad, Joakim; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-580996",
+    "href": "https://doi.org/10.1016/j.lungcan.2026.108935",
     "doi": "10.1016/j.lungcan.2026.108935",
     "pmid": 41671623
   },
@@ -13,7 +13,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2026,
     "journal": "Cell Communication and Signaling",
     "authors": "Lindberg, Amanda; Hellberg, Louise; Grandon, Anaïs; Yu, Hui; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-578638",
+    "href": "https://doi.org/10.1186/s12964-026-02651-3",
     "doi": "10.1186/s12964-026-02651-3",
     "pmid": 41540507
   },
@@ -22,7 +22,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2025,
     "journal": "Molecular Oncology",
     "authors": "He, Liqun; Testini, Chiara; Hekmati, Neda; Bonello, Altea; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-570616",
+    "href": "https://doi.org/10.1002/1878-0261.70144",
     "doi": "10.1002/1878-0261.70144",
     "pmid": 41102920
   },
@@ -31,7 +31,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2025,
     "journal": "Journal for ImmunoTherapy of Cancer",
     "authors": "Yu, Hui; Magoulopoulou, Anastasia; Amini, Rose-Marie; Chatzinikolaou, Maria Paraskevi; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-568270",
+    "href": "https://doi.org/10.1136/jitc-2025-012089",
     "doi": "10.1136/jitc-2025-012089",
     "pmid": 40866291
   },
@@ -40,7 +40,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2025,
     "journal": "Journal of Thoracic Oncology",
     "authors": "Lindberg, Amanda; Muhl, Lars; Yu, Hui; Hellberg, Louise; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-546466",
+    "href": "https://doi.org/10.1016/j.jtho.2024.12.026",
     "doi": "10.1016/j.jtho.2024.12.026",
     "pmid": 39743139
   },
@@ -49,7 +49,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2025,
     "journal": "EMBO Reports",
     "authors": "Pietilä, Riikka; Genové, Guillem; Mocci, Giuseppe; Miao, Yuyang; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-583324",
+    "href": "https://doi.org/10.1038/s44319-025-00580-9",
     "doi": "10.1038/s44319-025-00580-9",
     "pmid": 40954217
   },
@@ -58,7 +58,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2025,
     "journal": "Nature Communications",
     "authors": "Yadav, Ram Prakash; Xing, Pengwei; Zhao, Miao; Hollander, Peter; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-574305",
+    "href": "https://doi.org/10.1038/s41467-025-66170-4",
     "doi": "10.1038/s41467-025-66170-4",
     "pmid": 41238550
   },
@@ -67,7 +67,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2025,
     "journal": "Nature Cancer",
     "authors": "Biswas, Dhruva; Liu, Yun-Hsin; Herrero, Javier; Wu, Yin; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-550096",
+    "href": "https://doi.org/10.1038/s43018-024-00883-1",
     "doi": "10.1038/s43018-024-00883-1",
     "pmid": 39789179
   },
@@ -76,7 +76,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2025,
     "journal": "Cell Death and Differentiation",
     "authors": "Ohata, Yae; Ali, Mohamad M.; Tsubakihara, Yutaro; Itoh, Yuka; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-572103",
+    "href": "https://doi.org/10.1038/s41418-025-01488-6",
     "doi": "10.1038/s41418-025-01488-6",
     "pmid": 40148468
   },
@@ -85,7 +85,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2025,
     "journal": "Gut",
     "authors": "Maravelia, Panagiota; Yao, Haidong; Cai, Curtis; Silva, Daniela Nascimento; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-569593",
+    "href": "https://doi.org/10.1136/gutjnl-2024-334148",
     "doi": "10.1136/gutjnl-2024-334148",
     "pmid": 39832892
   },
@@ -94,7 +94,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2025,
     "journal": "Nature Communications",
     "authors": "Söderqvist, Sara; Viljamaa, Annika; Geyer, Natalie; Keller, Anna-Lena; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-569962",
+    "href": "https://doi.org/10.1038/s41467-025-63864-7",
     "doi": "10.1038/s41467-025-63864-7",
     "pmid": 41006303
   },
@@ -103,7 +103,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2025,
     "journal": "Breast Cancer Research and Treatment",
     "authors": "Tullberg, Axel Stenmark; Thurfjell, Viktoria; Kovacs, Aniko; Micke, Patrick; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-563670",
+    "href": "https://doi.org/10.1007/s10549-025-07744-0",
     "doi": "10.1007/s10549-025-07744-0",
     "pmid": 40488800
   },
@@ -112,7 +112,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2025,
     "journal": "Cellular Oncology",
     "authors": "Elfving, Hedvig; Yu, Hui; Kassete Fessehatsio, Kaleab; Brunnström, Hans; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-517152",
+    "href": "https://doi.org/10.1007/s13402-025-01052-x",
     "doi": "10.1007/s13402-025-01052-x",
     "pmid": 40029549
   },
@@ -121,7 +121,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2025,
     "journal": "Translational Lung Cancer Research",
     "authors": "Broström, Erika; Isaksson, Johan; Xanthoulis, Panagiotis; Börjesson, Rebecka; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-497492",
+    "href": "https://doi.org/10.21037/tlcr-24-840",
     "doi": "10.21037/tlcr-24-840",
     "pmid": 40673094
   },
@@ -130,7 +130,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2025,
     "journal": "PLOS ONE",
     "authors": "Salomonsson, Annette; Ehinger, Daniel; Jonsson, Mats; Botling, Johan; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-557872",
+    "href": "https://doi.org/10.1371/journal.pone.0310232",
     "doi": "10.1371/journal.pone.0310232",
     "pmid": 40333815
   },
@@ -139,7 +139,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2024,
     "journal": "Cancer Metastasis Review",
     "authors": "Strell, Carina; Rodríguez-Tomàs, Elisabet; Östman, Arne",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-546224",
+    "href": "https://doi.org/10.1007/s10555-024-10194-7",
     "doi": "10.1007/s10555-024-10194-7",
     "pmid": 38980580
   },
@@ -148,7 +148,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2024,
     "journal": "Virchows Archiv",
     "authors": "Malmros, Karina; Lindholm, Andreas; Vidarsdottir, Halla; Jirström, Karin; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-543932",
+    "href": "https://doi.org/10.1007/s00428-023-03583-w",
     "doi": "10.1007/s00428-023-03583-w",
     "pmid": 37349623
   },
@@ -157,7 +157,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2024,
     "journal": "MEDCOMM",
     "authors": "Garcia-Vicien, Gemma; Ruiz, Nuria; Micke, Patrick; Ruffinelli, Jose Carlos; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-545465",
+    "href": "https://doi.org/10.1002/mco2.70000",
     "doi": "10.1002/mco2.70000",
     "pmid": 39563958
   },
@@ -166,7 +166,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2024,
     "journal": "Breast Cancer Research and Treatment",
     "authors": "Strell, Carina; Smith, Daniel Robert; Valachis, Antonis; Woldeyesus, Hellen; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-541386",
+    "href": "https://doi.org/10.1007/s10549-024-07358-y",
     "doi": "10.1007/s10549-024-07358-y",
     "pmid": 38763971
   },
@@ -175,7 +175,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2024,
     "journal": "Molecular Cancer Research",
     "authors": "Enokido, Takayoshi; Horie, Masafumi; Yoshino, Seiko; Suzuki, Hiroshi I.; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-524635",
+    "href": "https://doi.org/10.1158/1541-7786.MCR-23-0229",
     "doi": "10.1158/1541-7786.MCR-23-0229",
     "pmid": 37801008
   },
@@ -184,7 +184,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2024,
     "journal": "Archives of Pathology & Laboratory Medicine",
     "authors": "Elfving, Hedvig; Thurfjell, Viktoria; Mattsson, Johanna Sofia Margareta; Backman, Max; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-517148",
+    "href": "https://doi.org/10.5858/arpa.2022-0327-oa",
     "doi": "10.5858/arpa.2022-0327-oa",
     "pmid": ""
   },
@@ -193,7 +193,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2023,
     "journal": "Oncoimmunology",
     "authors": "Gerdtsson, Anna Sandström; Knulst, Mattis; Botling, Johan; Mezheyeuski, Artur; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-502194",
+    "href": "https://doi.org/10.1080/2162402X.2023.2206725",
     "doi": "10.1080/2162402X.2023.2206725",
     "pmid": 37139184
   },
@@ -202,7 +202,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2023,
     "journal": "eBioMedicine",
     "authors": "Mezheyeuski, Artur; Backman, Max; Mattsson, Johanna Sofia Margareta; Martin-Bernabe, Alfonso; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-501100",
+    "href": "https://doi.org/10.1016/j.ebiom.2023.104452",
     "doi": "10.1016/j.ebiom.2023.104452",
     "pmid": 36724681
   },
@@ -211,7 +211,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2023,
     "journal": "Journal of the National Cancer Institute",
     "authors": "Pellinen, Teijo; Paavolainen, Lassi; Martín-Bernabé, Alfonso; Papatella Araujo, Renata; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-492026",
+    "href": "https://doi.org/10.1093/jnci/djac178",
     "doi": "10.1093/jnci/djac178",
     "pmid": 36083003
   },
@@ -220,7 +220,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2023,
     "journal": "Molecular Oncology",
     "authors": "Hikmet Noraddin, Feria; Rassy, Marc; Backman, Max; Méar, Loren; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-522496",
+    "href": "https://doi.org/10.1002/1878-0261.13474",
     "doi": "10.1002/1878-0261.13474",
     "pmid": 37341056
   },
@@ -229,7 +229,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2023,
     "journal": "Breast Cancer Research and Treatment",
     "authors": "Milosevic, Vladan; Edelmann, Reidunn J.; Winge, Ingeborg; Strell, Carina; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-511762",
+    "href": "https://doi.org/10.1007/s10549-023-06974-4",
     "doi": "10.1007/s10549-023-06974-4",
     "pmid": 37222874
   },
@@ -238,7 +238,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2023,
     "journal": "European Journal of Cancer",
     "authors": "Backman, Max; Strell, Carina; Lindberg, Amanda; Mattsson, Johanna S. M.; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-502648",
+    "href": "https://doi.org/10.1016/j.ejca.2023.02.012",
     "doi": "10.1016/j.ejca.2023.02.012",
     "pmid": 36963351
   },
@@ -247,7 +247,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2023,
     "journal": "Nature Communications",
     "authors": "Moro, Carlos Fernandez; Geyer, Natalie; Harrizi, Sara; Hamidi, Yousra; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-515044",
+    "href": "https://doi.org/10.1038/s41467-023-40688-x",
     "doi": "10.1038/s41467-023-40688-x",
     "pmid": 37596278
   },
@@ -256,7 +256,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2023,
     "journal": "International Journal of Molecular Sciences",
     "authors": "Tsakonas, Georgios; Koulouris, Andreas; Kazmierczak, Dominika; Botling, Johan; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-495351",
+    "href": "https://doi.org/10.3390/ijms24010193",
     "doi": "10.3390/ijms24010193",
     "pmid": 36613642
   },
@@ -265,7 +265,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2022,
     "journal": "Gastro Hep Advances",
     "authors": "Harryvan, T.J.; Hawinkels, L.J.A.C.; Inderson, A.; van Hooft, J.E.; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-492449",
+    "href": "https://doi.org/10.1016/j.gastha.2022.04.019",
     "doi": "10.1016/j.gastha.2022.04.019",
     "pmid": 35937541
   },
@@ -274,7 +274,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2022,
     "journal": "Translational Lung Cancer Research",
     "authors": "Thurfjell, Viktoria; Micke, Patrick; Yu, Hui; Krupar, Rosemarie; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-495327",
+    "href": "https://doi.org/10.21037/tlcr-22-504",
     "doi": "10.21037/tlcr-22-504",
     "pmid": 36636421
   },
@@ -283,7 +283,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2022,
     "journal": "Cancer Treatment and Research Communications",
     "authors": "Isaksson, Johan; Wennström, Leo; Brandén, Eva; Koyi, Hirsh; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-492027",
+    "href": "https://doi.org/10.1016/j.ctarc.2022.100556",
     "doi": "10.1016/j.ctarc.2022.100556",
     "pmid": ""
   },
@@ -292,7 +292,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2022,
     "journal": "Cancers",
     "authors": "Garcia-Vicien, Gemma; Mezheyeuski, Artur; Micke, Patrick; Ruiz, Nuria; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-469744",
+    "href": "https://doi.org/10.3390/cancers14030689",
     "doi": "10.3390/cancers14030689",
     "pmid": 35158957
   },
@@ -301,7 +301,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2022,
     "journal": "Frontiers in Oncology",
     "authors": "Khadse, Anand; Haakensen, Vilde D.; Silwal-Pandit, Laxmi; Hamfjord, Julian; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-476287",
+    "href": "https://doi.org/10.3389/fonc.2022.873532",
     "doi": "10.3389/fonc.2022.873532",
     "pmid": 35574381
   },
@@ -310,7 +310,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2022,
     "journal": "Nature",
     "authors": "Lomakin, Artem; Svedlund, Jessica; Strell, Carina; Gataric, Milana; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-492447",
+    "href": "https://doi.org/10.1038/s41586-022-05425-2",
     "doi": "10.1038/s41586-022-05425-2",
     "pmid": 36352222
   },
@@ -319,7 +319,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2022,
     "journal": "Journal of Clinical Pathology",
     "authors": "Ericson Lindquist, Kajsa; Ciornei, Cristina; Westbom-Fremer, Sofia; Gudinaviciene, Inga; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-465260",
+    "href": "https://doi.org/10.1136/jclinpath-2020-207257",
     "doi": "10.1136/jclinpath-2020-207257",
     "pmid": 33547095
   },
@@ -328,7 +328,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2022,
     "journal": "Oncoimmunology",
     "authors": "Papadakos, Konstantinos S.; Lundgren, Sebastian; Gialeli, Chrysostomi; Micke, Patrick; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-483898",
+    "href": "https://doi.org/10.1080/2162402X.2022.2111906",
     "doi": "10.1080/2162402X.2022.2111906",
     "pmid": 35990519
   },
@@ -337,7 +337,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2022,
     "journal": "European Journal of Cancer",
     "authors": "Schiza, Aglaia; Thurfjell, Viktoria; Stenmark Tullberg, Axel; Olofsson, Helena; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-477450",
+    "href": "https://doi.org/10.1016/j.ejca.2022.01.016",
     "doi": "10.1016/j.ejca.2022.01.016",
     "pmid": 35236568
   },
@@ -346,7 +346,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2021,
     "journal": "Cancers",
     "authors": "Eltahir, Mohamed; Isaksson, Johan; Mattsson, Johanna Sofia Margareta; Karre, Klas; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-453032",
+    "href": "https://doi.org/10.3390/cancers13133116",
     "doi": "10.3390/cancers13133116",
     "pmid": 34206510
   },
@@ -355,7 +355,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2021,
     "journal": "eBioMedicine",
     "authors": "Micke, Patrick; Strell, Carina; Mattsson, Johanna Sofia Margareta; Martin-Bernabe, Alfonso; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-442108",
+    "href": "https://doi.org/10.1016/j.ebiom.2021.103269",
     "doi": "10.1016/j.ebiom.2021.103269",
     "pmid": 33706249
   },
@@ -364,7 +364,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2021,
     "journal": "Journal of Pathology",
     "authors": "Backman, Max; La Fleur, Linnea; Kurppa, Pinja; Djureinovic, Dijana; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-465008",
+    "href": "https://doi.org/10.1002/path.5772",
     "doi": "10.1002/path.5772",
     "pmid": 34339045
   },
@@ -373,7 +373,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2021,
     "journal": "Cancer Immunology and Immunotherapy",
     "authors": "Goldmann, Torsten; Marwitz, Sebastian; Nitschkowski, Dorte; Krupar, Rosemarie; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-454352",
+    "href": "https://doi.org/10.1007/s00262-020-02825-z",
     "doi": "10.1007/s00262-020-02825-z",
     "pmid": 33576873
   },
@@ -382,7 +382,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2021,
     "journal": "Lung Cancer",
     "authors": "Elfving, Hedvig; Broström, Erika; Moens, Lotte N.J.; Almlöf, Jonas; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-431535",
+    "href": "https://doi.org/10.1016/j.lungcan.2020.11.023",
     "doi": "10.1016/j.lungcan.2020.11.023",
     "pmid": 33310622
   },
@@ -391,7 +391,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2021,
     "journal": "Cell Death and Differentiation",
     "authors": "Doffe, Flora; Carbonnier, Vincent; Tissier, Manon; Leroy, Bernard; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-429299",
+    "href": "https://doi.org/10.1038/s41418-020-00672-0",
     "doi": "10.1038/s41418-020-00672-0",
     "pmid": 33257846
   },
@@ -400,7 +400,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2021,
     "journal": "Viruses",
     "authors": "Bauer, Wolfgang; Weber, Marcus; Diehl-Wiesenecker, Eva; Galtung, Noa; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-464448",
+    "href": "https://doi.org/10.3390/v13122456",
     "doi": "10.3390/v13122456",
     "pmid": 34960725
   },
@@ -409,7 +409,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2021,
     "journal": "Odontology",
     "authors": "Yamaguchi, Yoko; Saito, Akira; Horie, Masafumi; Aoki, Akira; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-465230",
+    "href": "https://doi.org/10.1007/s10266-021-00625-0",
     "doi": "10.1007/s10266-021-00625-0",
     "pmid": 34128105
   },
@@ -418,7 +418,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2021,
     "journal": "Nature Communications",
     "authors": "Sabatier, Pierre; Beusch, Christian M.; Saei, Amir A.; Aoun, Mike; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-462115",
+    "href": "https://doi.org/10.1038/s41467-021-26879-4",
     "doi": "10.1038/s41467-021-26879-4",
     "pmid": 34772928
   },
@@ -427,7 +427,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2021,
     "journal": "Lung Cancer",
     "authors": "Moreno-Ruiz, Pablo; Corvigno, Sara; te Grootenhuis, Nienke C.; La Fleur, Linnéa; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-443971",
+    "href": "https://doi.org/10.1016/j.lungcan.2021.02.028",
     "doi": "10.1016/j.lungcan.2021.02.028",
     "pmid": 33706022
   },
@@ -436,7 +436,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2021,
     "journal": "European Journal of Cancer",
     "authors": "Bogatyrova, Olga; Mattsson, Johanna S M; Ross, Edith M.; Sanderson, Michael P.; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-448907",
+    "href": "https://doi.org/10.1016/j.ejca.2021.04.005",
     "doi": "10.1016/j.ejca.2021.04.005",
     "pmid": 33984662
   },
@@ -445,7 +445,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2021,
     "journal": "Cancers",
     "authors": "Mezheyeuski, Artur; Micke, Patrick; Martin-Bernabe, Alfonso; Backman, Max; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-460222",
+    "href": "https://doi.org/10.3390/cancers13215545",
     "doi": "10.3390/cancers13215545",
     "pmid": 34771707
   },
@@ -454,7 +454,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2021,
     "journal": "Cancers",
     "authors": "Tsakonas, Georgios; Martin-Bernabe, Alfonso; Rounis, Konstantinos; Moreno-Ruiz, Pablo; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-452330",
+    "href": "https://doi.org/10.3390/cancers13133151",
     "doi": "10.3390/cancers13133151",
     "pmid": 34202448
   },
@@ -463,7 +463,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2021,
     "journal": "Scientific Reports",
     "authors": "Miyashita, Naoya; Enokido, Takayoshi; Horie, Masafumi; Fukuda, Kensuke; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-461977",
+    "href": "https://doi.org/10.1038/s41598-021-01799-x",
     "doi": "10.1038/s41598-021-01799-x",
     "pmid": 34789779
   },
@@ -472,7 +472,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2021,
     "journal": "Cancer Research",
     "authors": "La Fleur, Linnea; Botling, Johan; He, Fei; Pelicano, Catarina; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-429296",
+    "href": "https://doi.org/10.1158/0008-5472.CAN-20-1885",
     "doi": "10.1158/0008-5472.CAN-20-1885",
     "pmid": 33293426
   },
@@ -481,7 +481,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2021,
     "journal": "Neoplasia",
     "authors": "Bozoky, Benedek; Moro, Carlos Fernandez; Strell, Carina; Geyer, Natalie; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-462473",
+    "href": "https://doi.org/10.1016/j.neo.2021.11.007",
     "doi": "10.1016/j.neo.2021.11.007",
     "pmid": 34798385
   },
@@ -490,7 +490,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2021,
     "journal": "Clinical Cancer Research",
     "authors": "Strell, Carina; Folkvaljon, Dick; Holmberg, Erik; Schiza, Aglaia; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-449207",
+    "href": "https://doi.org/10.1158/1078-0432.CCR-20-4300",
     "doi": "10.1158/1078-0432.CCR-20-4300",
     "pmid": 33952629
   },
@@ -499,7 +499,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2021,
     "journal": "Clinical Lung Cancer",
     "authors": "Yu, Hui; Brustugun, Odd Terje; Ekman, Simon; Botling, Johan; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-429300",
+    "href": "https://doi.org/10.1016/j.cllc.2020.09.018",
     "doi": "10.1016/j.cllc.2020.09.018",
     "pmid": 33214079
   },
@@ -508,7 +508,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2020,
     "journal": "Molecular Systems Biology",
     "authors": "Noraddin, Feria Hikmet; Méar, Loren; Edvinsson, Åsa; Micke, Patrick; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-420862",
+    "href": "https://doi.org/10.15252/msb.20209610",
     "doi": "10.15252/msb.20209610",
     "pmid": 32715618
   },
@@ -517,7 +517,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2020,
     "journal": "Cancer Medicine",
     "authors": "Salomonsson, Annette; Micke, Patrick; Mattsson, Johanna S M; La Fleur, Linnéa; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-423707",
+    "href": "https://doi.org/10.1002/cam4.3149",
     "doi": "10.1002/cam4.3149",
     "pmid": 32491279
   },
@@ -526,7 +526,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2020,
     "journal": "Frontiers in Immunology",
     "authors": "Lundgren, Sebastian; Micke, Patrick; Elebro, Jacob; Heby, Margareta; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-423598",
+    "href": "https://doi.org/10.3389/fimmu.2020.558169",
     "doi": "10.3389/fimmu.2020.558169",
     "pmid": 33013928
   },
@@ -535,7 +535,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2020,
     "journal": "Frontiers in Oncology",
     "authors": "Spiegelberg, Diana; Lundgren Mortensen, Anja Charlotte; Palupi, Kartika Dyah; Micke, Patrick; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-424569",
+    "href": "https://doi.org/10.3389/fonc.2020.01717",
     "doi": "10.3389/fonc.2020.01717",
     "pmid": 33014851
   },
@@ -544,7 +544,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2020,
     "journal": "Scientific Reports",
     "authors": "Mezheyeuski, Artur; Segersten, Ulrika; Leiss, Lina Wik; Malmström, Per-Uno; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-419056",
+    "href": "https://doi.org/10.1038/s41598-019-55013-0",
     "doi": "10.1038/s41598-019-55013-0",
     "pmid": 31937798
   },
@@ -553,7 +553,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2020,
     "journal": "Scientific Reports",
     "authors": "Zeitelhofer, Manuel; Adzemovic, Milena Z.; Moessinger, Christine; Stefanitsch, Christina; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-433621",
+    "href": "https://doi.org/10.1038/s41598-020-79598-z",
     "doi": "10.1038/s41598-020-79598-z",
     "pmid": 33361796
   },
@@ -562,7 +562,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2020,
     "journal": "PLOS ONE",
     "authors": "Ali, Abir Salwa; Langer, Seppo W.; Federspiel, Birgitte; Hjortland, Geir Olav; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-430967",
+    "href": "https://doi.org/10.1371/journal.pone.0243900",
     "doi": "10.1371/journal.pone.0243900",
     "pmid": 33315908
   },
@@ -571,7 +571,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2020,
     "journal": "European Journal of Cancer",
     "authors": "Tsakonas, Georgios; Lewensohn, Rolf; Botling, Johan; Ortiz-Villalon, Cristian; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-413898",
+    "href": "https://doi.org/10.1016/j.ejca.2020.03.014",
     "doi": "10.1016/j.ejca.2020.03.014",
     "pmid": 32325417
   },
@@ -580,7 +580,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2020,
     "journal": "Cancers",
     "authors": "Herrera, Mercedes; Mezheyeuski, Artur; Villabona, Lisa; Corvigno, Sara; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-429045",
+    "href": "https://doi.org/10.3390/cancers12113238",
     "doi": "10.3390/cancers12113238",
     "pmid": 33153037
   },
@@ -589,7 +589,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2020,
     "journal": "Cancer Letters",
     "authors": "Miyashita, Naoya; Horie, Masafumi; Mikami, Yu; Urushiyama, Hirokazu; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-423038",
+    "href": "https://doi.org/10.1016/j.canlet.2020.06.002",
     "doi": "10.1016/j.canlet.2020.06.002",
     "pmid": 32534174
   },
@@ -598,7 +598,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2020,
     "journal": "Haematologica",
     "authors": "Kramer, Frederike; Dernedde, Jens; Mezheyeuski, Artur; Tauber, Rudolf; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-400900",
+    "href": "https://doi.org/10.3324/haematol.2019.226332",
     "doi": "10.3324/haematol.2019.226332",
     "pmid": 31672904
   },
@@ -607,7 +607,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2020,
     "journal": "International Journal of Cancer",
     "authors": "Lundgren, Sebastian; Elebro, Jacob; Heby, Margareta; Nodin, Björn; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-416905",
+    "href": "https://doi.org/10.1002/ijc.32945",
     "doi": "10.1002/ijc.32945",
     "pmid": 32129882
   },
@@ -616,7 +616,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2019,
     "journal": "BMC Cancer",
     "authors": "Djureinovic, Dijana; Pontén, Victor; Landelius, Per; Al Sayegh, Sahar; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-347805",
+    "href": "https://doi.org/10.1186/s12885-019-5943-3",
     "doi": "10.1186/s12885-019-5943-3",
     "pmid": 31357969
   },
@@ -625,7 +625,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2019,
     "journal": "Clinical Lung Cancer",
     "authors": "Elfving, Hedvig; Mattsson, Johanna Sofia Margareta; Lindskog, Cecilia; Backman, Max; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-390976",
+    "href": "https://doi.org/10.1016/j.cllc.2019.02.012",
     "doi": "10.1016/j.cllc.2019.02.012",
     "pmid": 30926355
   },
@@ -634,7 +634,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2019,
     "journal": "Scientific Reports",
     "authors": "Karlsson, Anna; Cirenajwis, Helena; Ericson-Lindquist, Kajsa; Brunnström, Hans; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-381579",
+    "href": "https://doi.org/10.1038/s41598-019-41585-4",
     "doi": "10.1038/s41598-019-41585-4",
     "pmid": 30914778
   },
@@ -643,7 +643,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2019,
     "journal": "Scientific Reports",
     "authors": "Micke, Patrick; Botling, Johan; Mattsson, Johanna Sofia Margareta; Planck, Maria; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-377598",
+    "href": "https://doi.org/10.1038/s41598-018-37722-0",
     "doi": "10.1038/s41598-018-37722-0",
     "pmid": 30718697
   },
@@ -652,7 +652,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2019,
     "journal": "Nature Medicine",
     "authors": "Biswas, Dhruva; Birkbak, Nicolai J.; Rosenthal, Rachel; Hiley, Crispin T.; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-396656",
+    "href": "https://doi.org/10.1038/s41591-019-0595-z",
     "doi": "10.1038/s41591-019-0595-z",
     "pmid": 31591602
   },
@@ -661,7 +661,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2019,
     "journal": "Lung Cancer",
     "authors": "Tsakonas, Georgios; Botling, Johan; Micke, Patrick; Rivard, Chris; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-390909",
+    "href": "https://doi.org/10.1016/j.lungcan.2019.04.028",
     "doi": "10.1016/j.lungcan.2019.04.028",
     "pmid": 31200831
   },
@@ -670,7 +670,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2019,
     "journal": "Human Pathology",
     "authors": "Vidarsdottir, Halla; Tran, Lena; Nodin, Björn; Jirström, Karin; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-372013",
+    "href": "https://doi.org/10.1016/j.humpath.2018.10.009",
     "doi": "10.1016/j.humpath.2018.10.009",
     "pmid": 30389437
   },
@@ -679,7 +679,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2019,
     "journal": "International Journal of Cancer",
     "authors": "Cadenas, Cristina; Vosbeck, Sonja; Edlund, Karolina; Grgas, Katharina; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-380591",
+    "href": "https://doi.org/10.1002/ijc.32138",
     "doi": "10.1002/ijc.32138",
     "pmid": 30653260
   },
@@ -688,7 +688,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2019,
     "journal": "Journal of Thoracic Oncology",
     "authors": "Edlund, Karolina; Madjar, Katrin; Mattsson, Johanna Sofia Margareta; Djureinovic, Dijana; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-380592",
+    "href": "https://doi.org/10.1016/j.jtho.2018.12.022",
     "doi": "10.1016/j.jtho.2018.12.022",
     "pmid": 30639618
   },
@@ -697,7 +697,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2019,
     "journal": "Lung Cancer",
     "authors": "Dietel, M.; Savelov, N.; Salanova, R.; Micke, Patrick; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-393123",
+    "href": "https://doi.org/10.1016/j.lungcan.2019.06.012",
     "doi": "10.1016/j.lungcan.2019.06.012",
     "pmid": 31319978
   },
@@ -706,7 +706,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2019,
     "journal": "International Journal of Cancer",
     "authors": "Sottile, Rosa; Tannazi, Milad; Johansson, Maria H.; Cristiani, Costanza Maria; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-394046",
+    "href": "https://doi.org/10.1002/ijc.32363",
     "doi": "10.1002/ijc.32363",
     "pmid": 31018250
   },
@@ -715,7 +715,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2019,
     "journal": "Lung Cancer",
     "authors": "La Fleur, Linnea; Falk-Sörqvist, Elin; Smeds, Patrik; Berglund, Anders; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-380587",
+    "href": "https://doi.org/10.1016/j.lungcan.2019.01.003",
     "doi": "10.1016/j.lungcan.2019.01.003",
     "pmid": 30885352
   },
@@ -724,7 +724,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2019,
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",
     "authors": "Miranda, Alex; Hamilton, Phineas T.; Zhang, Allen W.; Pattnaik, Swetansu; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-383511",
+    "href": "https://doi.org/10.1073/pnas.1818210116",
     "doi": "10.1073/pnas.1818210116",
     "pmid": 30996127
   },
@@ -733,7 +733,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2018,
     "journal": "Journal of Pathology",
     "authors": "Mezheyeuski, Artur; Bergsland, Christian Holst; Backman, Max; Djureinovic, Dijana; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-343644",
+    "href": "https://doi.org/10.1002/path.5026",
     "doi": "10.1002/path.5026",
     "pmid": 29282718
   },
@@ -742,7 +742,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2018,
     "journal": "International Journal of Cancer",
     "authors": "La Fleur, Linnea; Boura, Vanessa F.; Alexeyenko, Andrey; Berglund, Anders; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-364230",
+    "href": "https://doi.org/10.1002/ijc.31545",
     "doi": "10.1002/ijc.31545",
     "pmid": 29667169
   },
@@ -751,7 +751,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2018,
     "journal": "Review of Scientific Instruments",
     "authors": "Micke, Patrick; Kühn, S; Buchauer, L; Harries, J R; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-380599",
+    "href": "https://doi.org/10.1063/1.5026961",
     "doi": "10.1063/1.5026961",
     "pmid": 29960545
   },
@@ -760,7 +760,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2018,
     "journal": "Acta Oncologica",
     "authors": "Gulyas, Miklos; Mattsson, Johanna Sofia Margareta; Lindgren, Andrea; Ek, Lars; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-343645",
+    "href": "https://doi.org/10.1080/0284186X.2017.1400685",
     "doi": "10.1080/0284186X.2017.1400685",
     "pmid": 29140138
   },
@@ -769,7 +769,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2018,
     "journal": "American Journal of Clinical Pathology",
     "authors": "Vidarsdottir, Halla; Tran, Lena; Nodin, Björn; Jirström, Karin; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-372014",
+    "href": "https://doi.org/10.1093/ajcp/aqy083",
     "doi": "10.1093/ajcp/aqy083",
     "pmid": 30169783
   },
@@ -778,7 +778,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2018,
     "journal": "Lung Cancer",
     "authors": "Karlsson, Terese; Kvarnbrink, Samuel; Holmlund, Camilla; Botling, Johan; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-371554",
+    "href": "https://doi.org/10.1016/j.lungcan.2018.09.017",
     "doi": "10.1016/j.lungcan.2018.09.017",
     "pmid": 30429017
   },
@@ -787,7 +787,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2018,
     "journal": "Journal of Thoracic Oncology",
     "authors": "Miyashita, Naoya; Horie, Masafumi; Suzuki, Hiroshi I.; Yoshihara, Masahito; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-371088",
+    "href": "https://doi.org/10.1016/j.jtho.2018.07.096",
     "doi": "10.1016/j.jtho.2018.07.096",
     "pmid": 30121393
   },
@@ -796,7 +796,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2018,
     "journal": "Journal of Pathology",
     "authors": "Horie, Masafumi; Miyashita, Naoya; Mattsson, Johanna Sofia Margareta; Mikami, Yu; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-366945",
+    "href": "https://doi.org/10.1002/path.5109",
     "doi": "10.1002/path.5109",
     "pmid": 29876935
   },
@@ -805,7 +805,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2018,
     "journal": "Journal of Nuclear Medicine",
     "authors": "Westerlund, Kristina; Altai, Mohamed; Mitran, Bogdan; Konijnenberg, Mark; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-358030",
+    "href": "https://doi.org/10.2967/jnumed.118.208348",
     "doi": "10.2967/jnumed.118.208348",
     "pmid": 29439013
   },
@@ -814,7 +814,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2018,
     "journal": "Lung Cancer",
     "authors": "Djureinovic, Dijana; Dodig-Crnkovic, Tea; Hellström, Cecilia; Holgersson, Georg; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-347809",
+    "href": "https://doi.org/10.1016/j.lungcan.2018.09.012",
     "doi": "10.1016/j.lungcan.2018.09.012",
     "pmid": ""
   },
@@ -823,7 +823,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2018,
     "journal": "CANCER IMMUNOLOGY RESEARCH",
     "authors": "Mezheyeuski, Artur; Bergsland, Christian; Backman, Max; Sjöblom, Tobias; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-377110",
+    "href": "https://doi.org/10.1158/2326-6074.TUMIMM17-B30",
     "doi": "10.1158/2326-6074.TUMIMM17-B30",
     "pmid": ""
   },
@@ -832,7 +832,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2018,
     "journal": "Journal of Thoracic Oncology",
     "authors": "Dietel, M.; Savelov, N.; Salanova, R.; Micke, Patrick; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-368922",
+    "href": "https://doi.org/10.1016/S1556-0864(18)30404-0",
     "doi": "10.1016/S1556-0864(18)30404-0",
     "pmid": ""
   },
@@ -859,7 +859,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2017,
     "journal": "Modern Pathology",
     "authors": "Grinberg, Marianna; Djureinovic, Dijana; Brunnström, Hans R R; Mattsson, Johanna Sofia Margareta; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-318128",
+    "href": "https://doi.org/10.1038/modpathol.2017.14",
     "doi": "10.1038/modpathol.2017.14",
     "pmid": 28281552
   },
@@ -868,7 +868,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2017,
     "journal": "Oncotarget",
     "authors": "Svensson, Maria C.; Warfvinge, Carl Fredrik; Fristedt, Richard; Hedner, Charlotta; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-336477",
+    "href": "https://doi.org/10.18632/oncotarget.19437",
     "doi": "10.18632/oncotarget.19437",
     "pmid": 29069772
   },
@@ -877,7 +877,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2017,
     "journal": "PLOS ONE",
     "authors": "Jabs, Verena; Edlund, Karolina; Koenig, Helena; Grinberg, Marianna; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-341934",
+    "href": "https://doi.org/10.1371/journal.pone.0187246",
     "doi": "10.1371/journal.pone.0187246",
     "pmid": 29112949
   },
@@ -886,7 +886,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2017,
     "journal": "Nature Biomedical Engineering",
     "authors": "Tanaka, Nobuyuki; Kanatani, Shigeaki; Tomer, Raju; Sahlgren, Cecilia; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-339722",
+    "href": "https://doi.org/10.1038/s41551-017-0139-0",
     "doi": "10.1038/s41551-017-0139-0",
     "pmid": ""
   },
@@ -895,7 +895,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2017,
     "journal": "Modern Pathology",
     "authors": "Brunnstrom, Hans; Johansson, Anna; Westbom-Fremer, Sofia; Backman, Max; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-337074",
+    "href": "https://doi.org/10.1038/modpathol.2017.59",
     "doi": "10.1038/modpathol.2017.59",
     "pmid": 28664936
   },
@@ -904,7 +904,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2017,
     "journal": "Cancer Research",
     "authors": "Mathot, Lucy; Kundu, Snehangshu; Ljungström, Viktor; Svedlund, Jessica; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-319146",
+    "href": "https://doi.org/10.1158/0008-5472.CAN-16-1921",
     "doi": "10.1158/0008-5472.CAN-16-1921",
     "pmid": 28108514
   },
@@ -913,7 +913,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2017,
     "journal": "Genes & Development",
     "authors": "Rao, Shuan; Sigl, Verena; Wimmer, Reiner Alois; Novatchkova, Maria; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-342920",
+    "href": "https://doi.org/10.1101/gad.304162.117",
     "doi": "10.1101/gad.304162.117",
     "pmid": 29118048
   },
@@ -922,7 +922,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2017,
     "journal": "Science",
     "authors": "Uhlen, Mathias; Zhang, Cheng; Lee, Sunjae; Sjöstedt, Evelina; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-334302",
+    "href": "https://doi.org/10.1126/science.aan2507",
     "doi": "10.1126/science.aan2507",
     "pmid": ""
   },
@@ -931,7 +931,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2017,
     "journal": "Journal of Thoracic Oncology",
     "authors": "Karlsson, Anna; Brunnström, Hans; Micke, Patrick; Veerla, Srinivas; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-333713",
+    "href": "https://doi.org/10.1016/j.jtho.2017.05.008",
     "doi": "10.1016/j.jtho.2017.05.008",
     "pmid": 28535939
   },
@@ -940,7 +940,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2017,
     "journal": "Journal of Thoracic Oncology",
     "authors": "La Fleur, Linnea; Falk-Sörqvist, Elin; Smeds, Patrik; Sundström, Magnus; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-377745",
+    "href": "https://doi.org/10.1016/j.jtho.2016.11.647",
     "doi": "10.1016/j.jtho.2016.11.647",
     "pmid": ""
   },
@@ -949,7 +949,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2017,
     "journal": "Journal of Thoracic Oncology",
     "authors": "Isaksson, Johan; Willen, Linda; La Fleur, Linnea; Mindus, Stephanie; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-377744",
+    "href": "https://doi.org/10.1016/j.jtho.2016.11.605",
     "doi": "10.1016/j.jtho.2016.11.605",
     "pmid": ""
   },
@@ -958,7 +958,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2017,
     "journal": "Journal of Clinical Oncology",
     "authors": "Micke, Patrick; Johansson, Anna; Westbom-Fremer, Anna; Backman, Max; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-377425",
+    "href": "https://doi.org/10.1200/JCO.2017.35.15_suppl.e20637",
     "doi": "10.1200/JCO.2017.35.15_suppl.e20637",
     "pmid": ""
   },
@@ -967,7 +967,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2017,
     "journal": "Molecular Cancer Research",
     "authors": "Horie, Masafumi; Kaczkowski, Bogumil; Ohshima, Mitsuhiro; Matsuzaki, Hirotaka; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-337081",
+    "href": "https://doi.org/10.1158/1541-7786.MCR-17-0191",
     "doi": "10.1158/1541-7786.MCR-17-0191",
     "pmid": 28698358
   },
@@ -976,7 +976,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2017,
     "journal": "Annals of Oncology",
     "authors": "Sandelin, Martin; Gruden, S.; Räsänen, Veera; Micke, Patrick; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-333343",
+    "href": "https://doi.org/10.1093/annonc/mdx089.011",
     "doi": "10.1093/annonc/mdx089.011",
     "pmid": ""
   },
@@ -985,7 +985,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2017,
     "journal": "International Journal of Cancer",
     "authors": "Berntsson, Jonna; Svensson, Maria C.; Leandersson, Karin; Nodin, Bjorn; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-330527",
+    "href": "https://doi.org/10.1002/ijc.30869",
     "doi": "10.1002/ijc.30869",
     "pmid": ""
   },
@@ -994,7 +994,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2017,
     "journal": "European journal of pharmaceutics and biopharmaceutics",
     "authors": "Grudén, Stefan; Sandelin, Martin; Rasanen, Veera; Micke, Patrick; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-316552",
+    "href": "https://doi.org/10.1016/j.ejpb.2017.01.018",
     "doi": "10.1016/j.ejpb.2017.01.018",
     "pmid": 28161551
   },
@@ -1003,7 +1003,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2016,
     "journal": "Journal of Ovarian Research",
     "authors": "Lundgren, Sebastian; Berntsson, Jonna; Nodin, Björn; Micke, Patrick; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-300306",
+    "href": "https://doi.org/10.1186/s13048-016-0232-0",
     "doi": "10.1186/s13048-016-0232-0",
     "pmid": 27048364
   },
@@ -1012,7 +1012,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2016,
     "journal": "Scientific Reports",
     "authors": "Horie, Masafumi; Yamaguchi, Yoko; Saito, Akira; Nagase, Takahide; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-305450",
+    "href": "https://doi.org/10.1038/srep33666",
     "doi": "10.1038/srep33666",
     "pmid": 27645561
   },
@@ -1021,7 +1021,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2016,
     "journal": "BMC Cancer",
     "authors": "Mattsson, Johanna Sofia Margareta; Brunnström, Hans; Jabs, Verena; Edlund, Karolina; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-284591",
+    "href": "https://doi.org/10.1186/s12885-016-2646-x",
     "doi": "10.1186/s12885-016-2646-x",
     "pmid": 27495736
   },
@@ -1030,7 +1030,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2016,
     "journal": "Oncotarget",
     "authors": "Raja, Erna; Tzavlaki, Kalliopi; Vuilleumier, Robin; Edlund, Karolina; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-278888",
+    "href": "https://doi.org/10.18632/oncotarget.6683",
     "doi": "10.18632/oncotarget.6683",
     "pmid": 26701726
   },
@@ -1039,7 +1039,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2016,
     "journal": "PLOS ONE",
     "authors": "Hellwig, Birte; Madjar, Katrin; Edlund, Karolina; Marchan, Rosemarie; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-312635",
+    "href": "https://doi.org/10.1371/journal.pone.0167585",
     "doi": "10.1371/journal.pone.0167585",
     "pmid": 27926932
   },
@@ -1048,7 +1048,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2016,
     "journal": "Applied immunohistochemistry & molecular morphology (Print)",
     "authors": "Tran, Lena; Mattsson, Johanna Sofia Margareta; Nodin, Björn; Jönsson, Per; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-278889",
+    "href": "https://doi.org/10.1097/PAI.0000000000000235",
     "doi": "10.1097/PAI.0000000000000235",
     "pmid": 26447895
   },
@@ -1057,7 +1057,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2016,
     "journal": "JCI INSIGHT",
     "authors": "Djureinovic, Dijana; Hallström, Bjorn M.; Horie, Masafumi; Mattsson, Johanna Sofia Margareta; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-310039",
+    "href": "https://doi.org/10.1172/jci.insight.86837",
     "doi": "10.1172/jci.insight.86837",
     "pmid": 27699219
   },
@@ -1066,7 +1066,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2016,
     "journal": "Journal of Gastrointestinal Oncology",
     "authors": "Fristedt, Richard; Borg, David; Hedner, Charlotta; Berntsson, Jonna; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-316446",
+    "href": "https://doi.org/10.21037/jgo.2016.11.07",
     "doi": "10.21037/jgo.2016.11.07",
     "pmid": 28078109
   },
@@ -1075,7 +1075,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2016,
     "journal": "Journal of Thoracic Oncology",
     "authors": "Micke, Patrick; Mattsson, Johanna Sofia Margareta; Djureinovic, Dijana; Nodin, Björn; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-278886",
+    "href": "https://doi.org/10.1016/j.jtho.2016.01.020",
     "doi": "10.1016/j.jtho.2016.01.020",
     "pmid": 26872818
   },
@@ -1084,7 +1084,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2016,
     "journal": "International Journal of Cancer",
     "authors": "Berntsson, Jonna; Nodin, Björn; Eberhard, Jakob; Micke, Patrick; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-299826",
+    "href": "https://doi.org/10.1002/ijc.30138",
     "doi": "10.1002/ijc.30138",
     "pmid": 27074317
   },
@@ -1102,7 +1102,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2016,
     "journal": "Journal of Clinical Periodontology",
     "authors": "Ohshima, Mitsuhiro; Yamaguchi, Yoko; Ambe, Kimiharu; Horie, Masafumi; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-283794",
+    "href": "https://doi.org/10.1111/jcpe.12495",
     "doi": "10.1111/jcpe.12495",
     "pmid": 26932322
   },
@@ -1111,7 +1111,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2015,
     "journal": "BMC Cancer",
     "authors": "Birgisson, Helgi; Edlund, Karolina; Wallin, Ulrik; Påhlman, Lars; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-251424",
+    "href": "https://doi.org/10.1186/s12885-015-1144-x",
     "doi": "10.1186/s12885-015-1144-x",
     "pmid": ""
   },
@@ -1129,7 +1129,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2015,
     "journal": "Acta Oncologica",
     "authors": "Kvarnbrink, Samuel; Karlsson, Terese; Edlund, Karolina; Botling, Johan; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-264681",
+    "href": "https://doi.org/10.3109/0284186X.2015.1021427",
     "doi": "10.3109/0284186X.2015.1021427",
     "pmid": 25813475
   },
@@ -1138,7 +1138,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2015,
     "journal": "Cancer Letters",
     "authors": "Mattsson, Johanna Sofia Margareta; Bergman, Bengt; Grinberg, Marianna; Edlund, Karolina; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-239073",
+    "href": "https://doi.org/10.1016/j.canlet.2014.10.032",
     "doi": "10.1016/j.canlet.2014.10.032",
     "pmid": 25449785
   },
@@ -1156,7 +1156,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2015,
     "journal": "Cancer Research",
     "authors": "Jerhammar, Fredrik; Bersani, Cinzia; Djureinovic, Dijana; Micke, Patrick; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-301806",
+    "href": "https://doi.org/10.1158/1538-7445.AM2015-110",
     "doi": "10.1158/1538-7445.AM2015-110",
     "pmid": ""
   },
@@ -1201,7 +1201,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2015,
     "journal": "Journal of Molecular Diagnostics",
     "authors": "Moens, Lotte N. J.; Falk-Sörqvist, Elin; Ljungström, Viktor; Mattsson, Johanna; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-269252",
+    "href": "https://doi.org/10.1016/j.jmoldx.2015.06.009",
     "doi": "10.1016/j.jmoldx.2015.06.009",
     "pmid": 26354930
   },
@@ -1210,7 +1210,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2015,
     "journal": "Archives of Toxicology",
     "authors": "Lohr, Miriam; Hellwig, Birte; Edlund, Karolina; Mattsson, Johanna S. M.; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-272120",
+    "href": "https://doi.org/10.1007/s00204-015-1632-4",
     "doi": "10.1007/s00204-015-1632-4",
     "pmid": 26608184
   },
@@ -1228,7 +1228,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2014,
     "journal": "BMC Cancer",
     "authors": "Mayrhofer, Markus; Kultima, Hanna Göransson; Birgisson, Helgi; Sundström, Magnus; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-240088",
+    "href": "https://doi.org/10.1186/1471-2407-14-872",
     "doi": "10.1186/1471-2407-14-872",
     "pmid": 25420937
   },
@@ -1237,7 +1237,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2014,
     "journal": "International Journal of Cancer",
     "authors": "Micke, Patrick; Mattsson, Johanna Sofia Margareta; Edlund, Karolina; Lohr, Miriam; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-235148",
+    "href": "https://doi.org/10.1002/ijc.28857",
     "doi": "10.1002/ijc.28857",
     "pmid": 24710653
   },
@@ -1246,7 +1246,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2014,
     "journal": "The FASEB Journal",
     "authors": "Lindskog, Cecilia; Fagerberg, Linn; Hallstrom, Bjorn; Edlund, Karolina; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-239105",
+    "href": "https://doi.org/10.1096/fj.14-254862",
     "doi": "10.1096/fj.14-254862",
     "pmid": 25169055
   },
@@ -1255,7 +1255,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2014,
     "journal": "Clinical Cancer Research",
     "authors": "Karlsson, Anna; Ringner, Markus; Lauss, Martin; Botling, Johan; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-235328",
+    "href": "https://doi.org/10.1158/1078-0432.CCR-14-0246",
     "doi": "10.1158/1078-0432.CCR-14-0246",
     "pmid": ""
   },
@@ -1264,7 +1264,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2014,
     "journal": "Clinical Cancer Research",
     "authors": "Noguchi, Satoshi; Saito, Akira; Horie, Masafumi; Mikami, Yu; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-234161",
+    "href": "https://doi.org/10.1158/1078-0432.CCR-13-3328",
     "doi": "10.1158/1078-0432.CCR-13-3328",
     "pmid": ""
   },
@@ -1273,7 +1273,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2014,
     "journal": "Histopathology",
     "authors": "Gremel, Gabriela; Bergman, Julia; Djureinovic, Dijana; Edqvist, Per-Henrik; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-216054",
+    "href": "https://doi.org/10.1111/his.12255",
     "doi": "10.1111/his.12255",
     "pmid": ""
   },
@@ -1291,7 +1291,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2013,
     "journal": "Cancer Letters",
     "authors": "Lohr, Miriam; Edlund, Karolina; Botling, Johan; Hammad, Seddik; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-181908",
+    "href": "https://doi.org/10.1016/j.canlet.2013.01.036",
     "doi": "10.1016/j.canlet.2013.01.036",
     "pmid": ""
   },
@@ -1300,7 +1300,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2013,
     "journal": "Clinical Cancer Research",
     "authors": "Botling, Johan; Edlund, Karolina; Lohr, Miriam; Hellwig, Birte; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-183399",
+    "href": "https://doi.org/10.1158/1078-0432.CCR-12-1139",
     "doi": "10.1158/1078-0432.CCR-12-1139",
     "pmid": 23032747
   },
@@ -1309,7 +1309,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2013,
     "journal": "PLOS ONE",
     "authors": "Planck, Maria; Edlund, Karolina; Botling, Johan; Micke, Patrick; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-211447",
+    "href": "https://doi.org/10.1371/journal.pone.0078614",
     "doi": "10.1371/journal.pone.0078614",
     "pmid": ""
   },
@@ -1318,7 +1318,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2013,
     "journal": "International Journal of Cancer",
     "authors": "Staaf, Johan; Isaksson, Sofi; Karlsson, Anna; Jönsson, Mats; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-183401",
+    "href": "https://doi.org/10.1002/ijc.27879",
     "doi": "10.1002/ijc.27879",
     "pmid": 23023297
   },
@@ -1327,7 +1327,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2013,
     "journal": "Clinical Cancer Research",
     "authors": "Schmidt, Marcus; Micke, Patrick; Hengstler, Jan G.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-193707",
+    "href": "https://doi.org/10.1158/1078-0432.CCR-12-2818",
     "doi": "10.1158/1078-0432.CCR-12-2818",
     "pmid": ""
   },
@@ -1345,7 +1345,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2013,
     "journal": "Cancer Research",
     "authors": "Karlsson, Terese; Kvarnbrink, Samuel; Holmlund, Camilla; Botling, Johan; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-221210",
+    "href": "https://doi.org/10.1158/1538-7445.AM2013-5315",
     "doi": "10.1158/1538-7445.AM2013-5315",
     "pmid": ""
   },
@@ -1363,7 +1363,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2012,
     "journal": "International Journal of Cancer",
     "authors": "Edlund, Karolina; Lindskog, Cecilia; Saito, Akira; Berglund, Anders; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-170991",
+    "href": "https://doi.org/10.1002/ijc.27518",
     "doi": "10.1002/ijc.27518",
     "pmid": 22392539
   },
@@ -1372,7 +1372,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2012,
     "journal": "Histopathology",
     "authors": "Mattsson, Johanna Sofia Margareta; Imgenberg-Kreuz, Juliana; Edlund, Karolina; Botling, Johan; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-187099",
+    "href": "https://doi.org/10.1111/j.1365-2559.2012.04245.x",
     "doi": "10.1111/j.1365-2559.2012.04245.x",
     "pmid": ""
   },
@@ -1381,7 +1381,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2012,
     "journal": "Clinical Cancer Research",
     "authors": "Schmidt, Marcus; Hellwig, Birte; Hammad, Seddik; Othman, Amnah; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-169734",
+    "href": "https://doi.org/10.1158/1078-0432.CCR-11-2210",
     "doi": "10.1158/1078-0432.CCR-11-2210",
     "pmid": 22351685
   },
@@ -1390,7 +1390,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2012,
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",
     "authors": "Edlund, Karolina; Larsson, Ola; Ameur, Adam; Bunikis, Ignas; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-175985",
+    "href": "https://doi.org/10.1073/pnas.1200019109",
     "doi": "10.1073/pnas.1200019109",
     "pmid": 22628563
   },
@@ -1399,7 +1399,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2012,
     "journal": "Oncoimmunology",
     "authors": "Schmidt, Marcus; Micke, Patrick; Gehrmann, Mathias; Hengstler, Jan G",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-189882",
+    "href": "https://doi.org/10.4161/onci.21653",
     "doi": "10.4161/onci.21653",
     "pmid": 23170262
   },
@@ -1408,7 +1408,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2011,
     "journal": "Genome Biology",
     "authors": "Rasmussen, Markus; Sundström, Magnus; Kultima, Hanna Göransson; Botling, Johan; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-164141",
+    "href": "https://doi.org/10.1186/gb-2011-12-10-r108",
     "doi": "10.1186/gb-2011-12-10-r108",
     "pmid": 22023820
   },
@@ -1417,7 +1417,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2011,
     "journal": "Journal of Thoracic Oncology",
     "authors": "Micke, Patrick; Edlund, Karolina; Holmberg, Lars; Göransson Kultima, Hanna; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-162455",
+    "href": "https://doi.org/10.1097/JTO.0b013e3182295917",
     "doi": "10.1097/JTO.0b013e3182295917",
     "pmid": ""
   },
@@ -1426,7 +1426,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2011,
     "journal": "Trace elements and electrolytes",
     "authors": "Micke, O.; Büntzel, J.; Mücke, R.; Micke, Patrick; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-156217",
+    "href": "https://doi.org/10.5414/TEP28150",
     "doi": "10.5414/TEP28150",
     "pmid": ""
   },
@@ -1435,7 +1435,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2011,
     "journal": "Nucleic Acids Research",
     "authors": "Johansson, Henrik; Isaksson, Magnus; Sörqvist, Elin Falk; Roos, F.; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-121425",
+    "href": "https://doi.org/10.1093/nar/gkq1005",
     "doi": "10.1093/nar/gkq1005",
     "pmid": 21059679
   },
@@ -1444,7 +1444,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2011,
     "journal": "Methods in Molecular Biology",
     "authors": "Botling, Johan; Micke, Patrick",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-153105",
+    "href": "https://doi.org/10.1007/978-1-59745-423-0_25",
     "doi": "10.1007/978-1-59745-423-0_25",
     "pmid": 20949406
   },
@@ -1453,7 +1453,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2011,
     "journal": "Methods in Molecular Biology",
     "authors": "Botling, Johan; Micke, Patrick",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-153106",
+    "href": "https://doi.org/10.1007/978-1-59745-423-0_16",
     "doi": "10.1007/978-1-59745-423-0_16",
     "pmid": 20949397
   },
@@ -1462,7 +1462,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2010,
     "journal": "BMC Cancer",
     "authors": "Sundström, Magnus; Edlund, Karolina; Lindell, Monica; Glimelius, Bengt; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-140057",
+    "href": "https://doi.org/10.1186/1471-2407-10-660",
     "doi": "10.1186/1471-2407-10-660",
     "pmid": 21122130
   },
@@ -1471,7 +1471,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2010,
     "journal": "Journal of Dental Research",
     "authors": "Ohshima, M.; Yamaguchi, Y.; Matsumoto, N.; Micke, Patrick; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-133605",
+    "href": "https://doi.org/10.1177/0022034510378423",
     "doi": "10.1177/0022034510378423",
     "pmid": ""
   },
@@ -1480,7 +1480,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2010,
     "journal": "Cancer Research",
     "authors": "Saito, Roy-Akira; Micke, Patrick; Paulsson, Janna; Augsten, Martin; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-125768",
+    "href": "https://doi.org/10.1158/0008-5472.CAN-09-3644",
     "doi": "10.1158/0008-5472.CAN-09-3644",
     "pmid": 20233876
   },
@@ -1498,7 +1498,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2010,
     "journal": "Frontiers of radiation therapy and oncology",
     "authors": "Micke, O.; Buntzel, J.; Kisters, K.; Schafer, U.; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-125857",
+    "href": "https://doi.org/10.1159/000262477",
     "doi": "10.1159/000262477",
     "pmid": 19955808
   },
@@ -1507,7 +1507,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2009,
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",
     "authors": "Augsten, Martin; Hägglöf, Christina; Olsson, Eleonor; Stolz, Claudia; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-125851",
+    "href": "https://doi.org/10.1073/pnas.0813144106",
     "doi": "10.1073/pnas.0813144106",
     "pmid": 19218429
   },
@@ -1516,7 +1516,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2009,
     "journal": "Lung Cancer",
     "authors": "Kuemmel, Andreas; Single, Kristjan; Bittinger, Fernando; Faldum, Andreas; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-125843",
+    "href": "https://doi.org/10.1016/j.lungcan.2008.04.005",
     "doi": "10.1016/j.lungcan.2008.04.005",
     "pmid": 18539357
   },
@@ -1525,7 +1525,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2009,
     "journal": "Biochemical and Biophysical Research Communications - BBRC",
     "authors": "Micke, Patrick; Hackbusch, Daniel; Mercan, Sibel; Stawowy, Philipp; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-125853",
+    "href": "https://doi.org/10.1016/j.bbrc.2009.03.078",
     "doi": "10.1016/j.bbrc.2009.03.078",
     "pmid": 19302976
   },
@@ -1534,7 +1534,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2009,
     "journal": "Biochemical and Biophysical Research Communications - BBRC",
     "authors": "Ohshima, Mitsuhiro; Yamaguchi, Yoko; Kappert, Kai; Micke, Patrick; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-125854",
+    "href": "https://doi.org/10.1016/j.bbrc.2009.02.012",
     "doi": "10.1016/j.bbrc.2009.02.012",
     "pmid": 19338769
   },
@@ -1543,7 +1543,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2009,
     "journal": "PloS one",
     "authors": "Göransson, Hanna; Edlund, Karolina; Rydåker, Maria; Rasmussen, Markus; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-112090",
+    "href": "https://doi.org/10.1371/journal.pone.0006057",
     "doi": "10.1371/journal.pone.0006057",
     "pmid": 19557126
   },
@@ -1552,7 +1552,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2009,
     "journal": "European Journal of Integrative Medicine",
     "authors": "Micke, Oliver; Bruns, Frank; Glatzel, Michael; Schoenekaes, Klaus; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-146078",
+    "href": "https://doi.org/10.1016/j.eujim.2009.02.001",
     "doi": "10.1016/j.eujim.2009.02.001",
     "pmid": ""
   },
@@ -1561,7 +1561,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2009,
     "journal": "BJU International",
     "authors": "Segersten, M. Ulrika; Edlund, E. Karolina; Micke, Patrick; de la Torre, Manuel; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-112911",
+    "href": "https://doi.org/10.1111/j.1464-410X.2009.08674.x",
     "doi": "10.1111/j.1464-410X.2009.08674.x",
     "pmid": 19522865
   },
@@ -1570,7 +1570,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2009,
     "journal": "American Journal of Pathology",
     "authors": "Paulsson, Janna; Sjöblom, Tobias; Micke, Patrick; Pontén, Fredrik; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-108458",
+    "href": "https://doi.org/10.2353/ajpath.2009.081030",
     "doi": "10.2353/ajpath.2009.081030",
     "pmid": 19498003
   },
@@ -1579,7 +1579,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2009,
     "journal": "Diagnostic molecular pathology (Print)",
     "authors": "Botling, Johan; Edlund, Karolina; Segersten, Ulrika; Tahmasebpoor, Simin; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-112901",
+    "href": "https://doi.org/10.1097/PDM.0b013e3181857e92",
     "doi": "10.1097/PDM.0b013e3181857e92",
     "pmid": 19214109
   },
@@ -1588,7 +1588,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2008,
     "journal": "Journal of Periodontology",
     "authors": "Ohshima, Mitsuhiro; Yamaguchi, Yoko; Micke, Patrick; Abiko, Yoshimitsu; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-125842",
+    "href": "https://doi.org/10.1902/jop.2008.070553",
     "doi": "10.1902/jop.2008.070553",
     "pmid": 18454671
   },
@@ -1597,7 +1597,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2007,
     "journal": "Lung Cancer",
     "authors": "Meyer, Ralf G.; Korn, Stephanie; Micke, Patrick; Becker, Kai; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-125841",
+    "href": "https://doi.org/10.1016/j.lungcan.2007.05.003",
     "doi": "10.1016/j.lungcan.2007.05.003",
     "pmid": 17599645
   },
@@ -1606,7 +1606,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2007,
     "journal": "Journal of Investigative Dermatology",
     "authors": "Micke, Patrick; Kappert, Kai; Ohshima, Mitsuhiro; Sundquist, Christina; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-10294",
+    "href": "https://doi.org/10.1038/sj.jid.5700714",
     "doi": "10.1038/sj.jid.5700714",
     "pmid": 17273163
   },
@@ -1615,7 +1615,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2007,
     "journal": "The FASEB Journal",
     "authors": "Kappert, Kai; Paulsson, Janna; Sparwel, Jan; Leppänen, Olli; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-10288",
+    "href": "https://doi.org/10.1096/fj.06-6219com",
     "doi": "10.1096/fj.06-6219com",
     "pmid": 17158785
   },
@@ -1669,7 +1669,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2004,
     "journal": "Cancer Research",
     "authors": "Furuhashi, Masao; Sjöblom, Tobias; Abramsson, Alexandra; Ellingsen, Jens; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-72900",
+    "href": "https://doi.org/10.1158/0008-5472.CAN-03-1489",
     "doi": "10.1158/0008-5472.CAN-03-1489",
     "pmid": 15087386
   },
@@ -1696,7 +1696,7 @@ window.PUBLICATIONS_DATA = [
     "year": 2003,
     "journal": "American Journal of Physiology. Heart and Circulatory Physiology",
     "authors": "Blaukat, Andree; Micke, Patrick; Kalatskaya, Irina; Faussner, Alexander; et al.",
-    "href": "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-10484",
+    "href": "https://doi.org/10.1152/ajpheart.00034.2003",
     "doi": "10.1152/ajpheart.00034.2003",
     "pmid": 12742822
   }
