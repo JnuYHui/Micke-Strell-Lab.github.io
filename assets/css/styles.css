@@ -1310,9 +1310,14 @@ body.menu-open {
 }
 
 .hero-home .type-display {
-  max-width: 15ch;
-  font-size: clamp(2.3rem, 4.35vw, 3.7rem);
+  max-width: none;
+  font-size: clamp(2rem, 3.65vw, 3.15rem);
   line-height: 1.04;
+}
+
+.hero-home .hero-line {
+  display: block;
+  white-space: nowrap;
 }
 
 .hero-home__actions {
