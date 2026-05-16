@@ -1167,7 +1167,15 @@ body.menu-open {
   color: var(--text);
   font-family: "Jost", Arial, sans-serif;
   font-size: clamp(2rem, 4.6vw, 3.25rem);
+  font-weight: 500;
+  letter-spacing: -0.02em;
   line-height: 1.15;
+}
+
+.about-hero__title {
+  max-width: none;
+  font-size: clamp(2.35rem, 4.9vw, 3.9rem);
+  line-height: 1.08;
 }
 
 .section-intro__summary {
@@ -1568,6 +1576,10 @@ body.menu-open {
   border-radius: calc(var(--radius-md) - 0.2rem);
   background: var(--surface-soft);
   box-shadow: var(--shadow-sharp);
+}
+
+.people-heading-nowrap {
+  white-space: nowrap;
 }
 
 .team-card {
