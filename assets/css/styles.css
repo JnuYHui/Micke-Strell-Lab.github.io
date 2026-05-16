@@ -1513,6 +1513,13 @@ body.menu-open {
   fill: #111111;
 }
 
+.research-card-icon img {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  display: block;
+}
+
 .news-grid {
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 2rem;
