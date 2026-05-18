@@ -1251,6 +1251,21 @@ body.menu-open {
   letter-spacing: -0.01em;
 }
 
+.pi-name-suffix {
+  font-size: 0.78em;
+  font-weight: 400;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.pi-name {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: baseline;
+  gap: 0.18em;
+  white-space: nowrap;
+}
+
 .type-body-lg {
   color: var(--text-muted);
   font-family: "Instrument Sans", Arial, sans-serif;
